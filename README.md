@@ -96,4 +96,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-KPRIT Chatbot
+Mohammed Munzir 
+
+##
+Off Campus Code: XWXPQJ 
+
